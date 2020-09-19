@@ -38,7 +38,7 @@ def valid(bo,num,pos):
     for i in range(box_y*3, box_y*3 + 3):
         for j in range(box_x*3, box_x*3 + 3):
                if bo[i][j] == num and (i,j) != pos:
-                   return False
+                    return False
     return True
 
 
