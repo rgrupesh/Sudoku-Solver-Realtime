@@ -1,1 +1,1 @@
-# Sudoku Solver
+Run `main.ipynb`. Make sure to install and import necessary libraries listed inside `main.ipynb` to run locally.
